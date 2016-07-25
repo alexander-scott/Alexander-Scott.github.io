@@ -68,6 +68,12 @@
  text-align:center;
 }
 
+.modal-content {
+  width: 90%;
+  display: block;
+    margin: 0 auto;
+}
+
 .ekko-lightbox .close {
 margin-top: -2px;
 position: absolute;
