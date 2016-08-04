@@ -81,6 +81,10 @@ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jp
   z-index: -1;
 }
 
+#aboutMore, #portfolio {
+    background: White;
+}
+
 #bgvid{
   position: fixed;
   top: 0;
