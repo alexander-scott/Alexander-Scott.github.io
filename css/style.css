@@ -78,11 +78,11 @@ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jp
   bottom: 0;
   left: 0;
   overflow: hidden;
-  z-index: 100;
+  z-index: -1;
 }
 
 #bgvid{
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -196,7 +196,7 @@ top:0;
 display:none;
 width: 100%;
 min-height: 54px;
-z-index:99;
+z-index:999;
 }
 
 .navbar {
@@ -431,6 +431,7 @@ position:relative;
 overflow:hidden;
 background:#000;
 max-height: 250px;
+min-height: 250px;
 }
 .thumb-img img{
 display:block;
