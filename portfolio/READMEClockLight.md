@@ -1,4 +1,4 @@
-ClockLight
+ClockLight 
 =======
 
 Overview
@@ -23,13 +23,13 @@ If there are 12 beads of light active around the edge of the clock for a period 
 
 The second mode is spinner mode. Spinner mode is exactly the same as classic mode except the lights around the edge will be slowly rotating clockwise or anticlockwise. This means the player will have to think about where the lights around the edge will be a few frames in the future. 
 
-Thirdly there is alternate mode. This mode is exactly the same as classic mode except the lights in the middle won’t spawn in pairs. 
+Thirdly there is alternate mode. This mode is exactly the same as classic mode except the lights in the middle wonâ€™t spawn in pairs. 
 
 In classic mode one spawns at the base of the small hand and the big hand, however in alternate mode one will spawn on one hand then a second later another will spawn on the other hand. This means the player will have to be repositioning the hands a lot more often. 
 
 Fourthly there is pulse mode. This mode is the most different from the other two. Unlike classic mode where the pair of lights spawn at intervals, in this mode the player gets to decide when to spawn the lights. To do this they must tap the centre of the clock, which will spawn the pair of lights. 
 
-They can do this as fast as they want to (or as slow), however it will get more difficult the more light beads that they spawn. To make it even harder the colours that are spawned at the centre won’t necessarily match those around the edge so the player will need to learn how to discard colours.
+They can do this as fast as they want to (or as slow), however it will get more difficult the more light beads that they spawn. To make it even harder the colours that are spawned at the centre wonâ€™t necessarily match those around the edge so the player will need to learn how to discard colours.
 
 There is also an in-game currency. The currency itself has no name but has the icon of an atom in game. These are gained whenever there is a successful light match around the edge of the clock. These are used to buy utilities, powerups or skins from the store.
 

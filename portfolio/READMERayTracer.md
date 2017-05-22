@@ -23,7 +23,7 @@ This project only contains the C++ version not the PS4 version however. It featu
 
 Execution speeds at different optimisation levels
 ---------------
-Rendering a Solar System (1920x1080, 60fps, 5 seconds) - Release mode - Intel® Core™ i5-4690K CPU @ 3.50 GHz
+Rendering a Solar System (1920x1080, 60fps, 5 seconds) - Release mode - IntelÂ® Coreâ„¢ i5-4690K CPU @ 3.50 GHz
 
 Single threaded results (seconds)
 Od - 460.163
