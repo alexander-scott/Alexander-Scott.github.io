@@ -1,4 +1,4 @@
-MSc Thesis
+Generating and Rendering A High-Fidelity Virtual World out of Vehicle Sensor Data
 =======
 
 Abstract
